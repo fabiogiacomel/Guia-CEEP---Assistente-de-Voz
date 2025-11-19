@@ -1,0 +1,7 @@
+{
+  "name": "Guia CEEP - Assistente de Voz",
+  "description": "Assistente virtual conversacional para o CEEP Pedro Boaretto Neto utilizando Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
